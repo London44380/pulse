@@ -1,4 +1,4 @@
-<img src="assets/pulse_logo.png" width="200" alt="Pulse Logo">
+<img src="assets/pulse.png" width="200" alt="Pulse Logo">
 
 [![Python 3.8+](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
