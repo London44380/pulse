@@ -65,7 +65,7 @@ Pulse is an advanced stress testing tool that simulates real user traffic to eva
 
 **vs Basic Tools:**
 
-| Tool | Req/s | WAF Evasion | Pule Advantage |
+| Tool | Req/s | WAF Evasion | Pulse Advantage |
 |------|-------|-------------|-------------------|
 | LOIC | 100-200 | None | 3x faster + smart evasion |
 | hping3 | 50-100 | Layer 3/4 | Application layer + headers |
